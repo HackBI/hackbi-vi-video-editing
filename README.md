@@ -11,9 +11,9 @@ Make videos for promotional use, schoolwork, etc.
 * Learn Adobe Premiere Pro
 
 
-## Goal:
-• Learn how to use Adobe Premiere (import, timeline, cut, effects, transitions, export)
-• Beginner level
+## Goals:
+* Learn how to use Adobe Premiere (import, timeline, cut, effects, transitions, export)
+* Beginner level
 
 ## Challenges: 
 * Import media
